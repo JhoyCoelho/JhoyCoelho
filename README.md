@@ -4,7 +4,7 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8e5ae9&size=45&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Jhoy+Thiago;Tenho+23+anos+de+idade;Sou+de+Belém+do+Pará,+Brasil.;Seja+bem-vindo+:%29)](https://git.io/typing-svg)
 
 <br/><br/>
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="410" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="390" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 
 <p align="justify">
  Estou em um processo de transição de carreira, da Engenharia Civil para o Desenvolvimento de Software, atualmente curso <b>Análise e Desenvolvimento de Sistemas</b>, curso também <b>Desenvolvimento de Software com foco em Back-End</b> pela <a href="https://cubos.academy/" target="_blank">Cubos Academy</a>, estou sempre disposto a aprender algo novo e sou apaixonado por tecnologia e sua constante mudança. Gosto de compartilhar conhecimento, experiências e estudos e levo sempre comigo uma frase de Paulo Freire que diz <b><i>“Quem ensina aprende ao ensinar. E quem aprende ensina ao aprender”</i></b>.
