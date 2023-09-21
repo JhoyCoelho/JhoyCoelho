@@ -7,8 +7,7 @@
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="390" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 
 <p align="justify">
- Estou em um processo de transição de carreira, da Engenharia Civil para o Desenvolvimento de Software, atualmente curso <b>Análise e Desenvolvimento de Sistemas</b>, curso também <b>Desenvolvimento de Software com foco em Back-End</b> pela <a href="https://cubos.academy/" target="_blank">Cubos Academy</a>, estou sempre disposto a aprender algo novo e sou apaixonado por tecnologia e sua constante mudança. Gosto de compartilhar conhecimento, experiências e estudos e levo sempre comigo uma frase de Paulo Freire que diz <b><i>“Quem ensina aprende ao ensinar. E quem aprende ensina ao aprender”</i></b>.
-<a href="https://cubos.academy/" target="_blank"></a>
+Estou em um processo de transição de carreira, da Engenharia Civil para o Desenvolvimento de Software, atualmente curso <b>Análise e Desenvolvimento de Sistemas</b>, curso também <b>Desenvolvimento de Software com foco em Back-End</b> pela <a href="https://cubos.academy/" target="_blank">Cubos Academy</a>, estou sempre disposto a aprender algo novo e sou apaixonado por tecnologia e sua constante mudança. Gosto de compartilhar conhecimento, experiências e estudos e levo sempre comigo uma frase de Paulo Freire que diz <b><i>“Quem ensina aprende ao ensinar. E quem aprende ensina ao aprender”</i></b>.
 </p>
 <br/>
 
@@ -18,17 +17,17 @@
 - 📚 Estudante de Ciência de Dados com Python.
 
 <br/>
-<h2 align="center">Conecte-se comigo</h2>
+
+<h2 align="center"><a href="#sua-ancora" style="text-decoration:none; color:inherit;">Conecte-se comigo</a></h2>
   <p align="center">
     <a href="https://www.linkedin.com/in/jhoycoelho73/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Linkedin"></a>
     <a href="mailto:jhoycoelho.oficial@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="E-mail"></a>
-    <a href="mailto:jhoycoelho.oficial@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-    </a>
-    <a href="https://instagram.com/jhoy_thiago?igshid=MzMyNGUyNmU2YQ==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
+    <a href="mailto:jhoycoelho.oficial@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+    <a href="https://instagram.com/jhoy_thiago?igshid=MzMyNGUyNmU2YQ==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   </p>
 <br/>
-<h2 align="center">Hard Skills</h2>
+<h2 align="center"><a href="#sua-ancora" style="text-decoration:none; color:inherit;">Hard skills</a></h2>
+
   <p align="center">
     <img src="https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=323330" target="_blank" alt="JavaScript">
     <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" target="_blank" alt="Node.js">
@@ -48,7 +47,7 @@
 </div>
 
 <br/><br/>
-<h3 align="center" ><i>"Vivemos em uma sociedade absolutamente dependente da ciência e da tecnologia,<br> na qual quase ninguém entende sobre ciência e tecnologia"</i></h3>
+<h3 align="center"><a href="#sua-ancora" style="text-decoration:none; color:inherit;"><i>"Vivemos em uma sociedade absolutamente dependente da ciência e da tecnologia,<br> na qual quase ninguém entende sobre ciência e tecnologia"</i></a></h3>
 <p align="center"><i>- Carl Sagan -</i></p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8e5ae9&height=120&section=footer"/>
