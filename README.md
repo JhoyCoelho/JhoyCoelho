@@ -18,7 +18,7 @@ Estou em um processo de transição de carreira, da Engenharia Civil para o Dese
 
 <br/>
 
-<h2 align="center"><a href="#sua-ancora" style="text-decoration:none; color:inherit;">Conecte-se comigo</a></h2>
+<h2 align="center">Conecte-se comigo</h2>
   <p align="center">
     <a href="https://www.linkedin.com/in/jhoycoelho73/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Linkedin"></a>
     <a href="mailto:jhoycoelho.oficial@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="E-mail"></a>
@@ -26,7 +26,7 @@ Estou em um processo de transição de carreira, da Engenharia Civil para o Dese
     <a href="https://instagram.com/jhoy_thiago?igshid=MzMyNGUyNmU2YQ==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   </p>
 <br/>
-<h2 align="center"><a href="#sua-ancora" style="text-decoration:none; color:inherit;">Hard skills</a></h2>
+<h2 align="center">Hard skills</h2>
 
   <p align="center">
     <img src="https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=323330" target="_blank" alt="JavaScript">
