@@ -47,7 +47,7 @@ Estou em um processo de transição de carreira, da Engenharia Civil para o Dese
 </div>
 
 <br/><br/>
-<h3 align="center"><a href="#sua-ancora" style="text-decoration:none; color:inherit;"><i>"Vivemos em uma sociedade absolutamente dependente da ciência e da tecnologia,<br> na qual quase ninguém entende sobre ciência e tecnologia"</i></a></h3>
+<h3 align="center"><i>"Vivemos em uma sociedade absolutamente dependente da ciência e da tecnologia,<br> na qual quase ninguém entende sobre ciência e tecnologia"</i></h3>
 <p align="center"><i>- Carl Sagan -</i></p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8e5ae9&height=120&section=footer"/>
